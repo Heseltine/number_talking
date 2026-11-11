@@ -1,4 +1,4 @@
-baseURL = 'https://number_talking.github.io/'
+baseURL = 'https://heseltine.github.io/number_talking/'
 locale = 'en-us'
 title = 'What we talk about when we talk about numbers'
 theme = 'PaperMod'
