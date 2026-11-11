@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-#Hugo
+# Hugo
 blog/public/
 .hugo_build.lock
 
