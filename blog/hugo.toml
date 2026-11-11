@@ -1,0 +1,4 @@
+baseURL = 'https://number_talking.github.io/'
+locale = 'en-us'
+title = 'What we talk about when we talk about numbers'
+theme = 'PaperMod'
